@@ -1,0 +1,7 @@
+image: /home/rover/catkin_ws/src/ipa_coverage_planning-noetic_dev/ipa_room_exploration/map/map.pgm
+resolution: 0.050000
+origin: [-10.300000, -19.900000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
